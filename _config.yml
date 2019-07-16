@@ -22,3 +22,6 @@ collections:
       source: sample.csv
     images:
       source: sample_images
+
+plugins:
+  - jekyll-last-modified-at
